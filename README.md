@@ -2,4 +2,4 @@
 
 ### Watch the Full Notebook Here:
 
-https://nbviewer.jupyter.org/github/bar-benjamin/video-game-sales/blob/master/video_game_sales.ipynb
+https://nbviewer.org/github/bar-benjamin/Video-Game-Sales/blob/main/video_game_sales.ipynb
